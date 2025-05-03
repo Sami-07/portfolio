@@ -12,6 +12,9 @@ export const siteConfig = {
   description: 'Personal Portfolio',
 } as const;
 
+
+export const resumeLink = 'https://yjl98ivw6f.ufs.sh/f/BPueypH3e51CTkYK27VWNpcPRoumzCKrhDXMxgaHek8tJqEI';
+
 export const experiences = [
   {
     title: 'Tech Lead (Internship)',

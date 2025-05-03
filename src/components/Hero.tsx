@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import Image from 'next/image';
-
+import { resumeLink } from '../constants';
 const Hero = () => {
   return (
     <section 
@@ -79,7 +79,7 @@ const Hero = () => {
                 </svg>
               </a>
               <a 
-                href="https://yjl98ivw6f.ufs.sh/f/BPueypH3e51CXaweIkTzkM3IVxNcBYlh6dSTbHtwKaELf0rQ" 
+                href={resumeLink} 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-dark-200 hover:bg-dark-300 text-light-100 px-8 py-3.5 rounded-full font-medium transition-all duration-300 hover:shadow-lg hover:shadow-dark-200/20 flex items-center gap-2 group"
