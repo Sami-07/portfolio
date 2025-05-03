@@ -17,6 +17,7 @@ export const experiences = [
     title: 'Tech Lead (Internship)',
     company: 'WiseIN',
     date: 'Oct 2024 – Present',
+    logo: '/wisein-logo.jpeg',
     description: [
       'Leading a cross-functional team of 3 developers and 2 UX designers to architect and develop a Full-Stack Web App and cross-platform Mobile App with complex business logic.',
       'Conducting regular code reviews, enforcing coding standards, and ensuring high code quality aligned with project requirements.',
@@ -28,6 +29,7 @@ export const experiences = [
     title: 'Full Stack Developer (Internship)',
     company: 'Metaverse Ventures',
     date: 'Jun 2024 – Oct 2024',
+    logo: '/m0-logo.jpeg',
     description: [
       'Developed full stack AI/LLM-based web apps using Next.js, TypeScript and Nest.js.',
       'Enhanced the user experience of key AI voice features on a leading Voice AI platform.',
@@ -39,6 +41,7 @@ export const experiences = [
     title: 'Full Stack Developer (Internship)',
     company: 'Sanshi Network Technologies',
     date: 'Jan 2024 – Jun 2024',
+    logo: '/sanshi-logo.jpeg',
     description: [
       'Implemented end-to-end user authentication and verification using third-party APIs.',
       'Developed a feature-rich dashboard with complex logic for slot booking, service management, and scheduling.',

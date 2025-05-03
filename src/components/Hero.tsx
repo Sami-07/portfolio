@@ -49,7 +49,7 @@ const Hero = () => {
               <h3 className="text-2xl md:text-3xl font-medium text-light-100">
                 Full Stack Developer
               </h3>
-              <p className="text-light-300 text-lg max-w-md mx-auto md:mx-0">
+              <p className="text-light-300 text-sm md:text-lg max-w-md mx-auto md:mx-0">
                 With <span className="text-primary font-semibold">1.5+ years</span> of experience, I specialize in building modern web applications with expertise in frontend, backend, DevOps, and cloud technologies. Passionate about creating scalable and efficient solutions.
               </p>
             </motion.div>

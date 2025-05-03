@@ -17,12 +17,12 @@ const Contact = () => {
           >
             <h3 className="text-2xl font-bold mb-6 text-light-100">Let&apos;s Connect</h3>
             
-            <p className="text-light-300 mb-8">
+            <p className="text-light-300 text-sm md:text-base mb-8">
               Feel free to reach out for collaborations, job opportunities, or if you just want to say hi! 
               I&apos;ll get back to you as soon as possible.
             </p>
             
-            <div className="space-y-6">
+            <div className="space-y-6 text-sm md:text-base">
               <div className="flex items-start space-x-4">
                 <div className="p-3 bg-dark-200 rounded-full">
                   <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor">

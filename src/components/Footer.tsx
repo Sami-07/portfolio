@@ -18,7 +18,7 @@ const Footer = () => {
             <Link href="/#home" className="text-3xl font-bold text-primary">
               Abdul<span className="text-light-100">Sami</span>
             </Link>
-            <p className="text-light-300 mt-2 max-w-md">
+            <p className="text-light-300 mt-2 max-w-md text-sm md:text-base">
               Full Stack Developer & CS Student with experience in web applications, DevOps, cloud technologies and AI integration.
             </p>
           </div>
