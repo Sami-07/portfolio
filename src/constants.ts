@@ -63,7 +63,7 @@ export const projects = [
     demo: 'https://mytube.abdulsami.dev'
   },
   {
-    title: 'AI-Powered Collaborative Code Editor',
+    title: 'AI-Powered Collaborative Code Editor with execution',
     description: 'Real-time collaborative coding platform with WebSockets and YJS. Includes OpenAI code assistant, Redis PubSub for chat, and AWS-hosted Judge0 for secure code execution.',
     image: '/projects/codecollab.png',
     tags: ['Next.js', 'TypeScript', 'WebSockets', 'Redis', 'OpenAI', 'AWS'],
