@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion';
 import SectionHeading from './SectionHeading';
 import { experiences } from '../constants';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
