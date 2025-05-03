@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   keywords: ["Full Stack Developer", "React", "Next.js", "TypeScript", "Portfolio"],
   authors: [{ name: "Shaikh Abdul Sami" }],
   metadataBase: new URL("https://abdulsami.dev"),
+  icons: {
+    icon: '/favicon.ico',
+  },
   openGraph: {
     type: "website",
     locale: "en_US",

@@ -15,11 +15,11 @@ const Contact = () => {
             transition={{ duration: 0.5 }}
             className="bg-dark-100 p-8 rounded-xl shadow-lg"
           >
-            <h3 className="text-2xl font-bold mb-6 text-light-100">Let's Connect</h3>
+            <h3 className="text-2xl font-bold mb-6 text-light-100">Let&apos;s Connect</h3>
             
             <p className="text-light-300 mb-8">
               Feel free to reach out for collaborations, job opportunities, or if you just want to say hi! 
-              I'll get back to you as soon as possible.
+              I&apos;ll get back to you as soon as possible.
             </p>
             
             <div className="space-y-6">
