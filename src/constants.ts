@@ -71,7 +71,7 @@ export const projects = [
     demo: 'https://codecollab.abdulsami.dev'
   },
   {
-    title: 'AI-powered Website Builder',
+    title: 'AI-powered Website Builder with 1-click Deployment',
     description: 'Platform that generates websites from natural language prompts with real-time editing. Features scalable backend, isolated build environments, and automated deployment pipeline.',
     image: '/projects/codestudio-ai.png',
     tags: ['Node.js', 'React', 'AWS S3', 'AWS ECS', 'LLM', 'Claude'],
