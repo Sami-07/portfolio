@@ -13,7 +13,7 @@ export const siteConfig = {
 } as const;
 
 
-export const resumeLink = 'https://yjl98ivw6f.ufs.sh/f/BPueypH3e51CTkYK27VWNpcPRoumzCKrhDXMxgaHek8tJqEI';
+export const resumeLink = 'https://yjl98ivw6f.ufs.sh/f/BPueypH3e51C0WtEK0i7UmdNohjJrcCyswYq8u6P4xnD5zaH';
 
 export const experiences = [
   {
