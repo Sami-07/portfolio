@@ -22,7 +22,6 @@ export const experiences = [
     date: 'Oct 2024 – Present',
     logo: '/wisein-logo.jpeg',
     description: [
- )
 'Leading a cross-functional team of 3 developers and 2 UX designers to architect and develop a Full-Stack Web App and crossplatform Mobile App with complex business logic.',
 'Implemented Caching, Rate Limiting, CDN, and other optimizations to improve the performance of the application.',
 'Built a RAG-powered chat system using Pinecone for semantic search over meeting transcripts.',
