@@ -17,19 +17,21 @@ export const resumeLink = 'https://yjl98ivw6f.ufs.sh/f/BPueypH3e51C0WtEK0i7UmdNo
 
 export const experiences = [
   {
-    title: 'Tech Lead (Internship)',
+    title: 'Lead Full Stack Engineer',
     company: 'WiseIN',
     date: 'Oct 2024 – Present',
     logo: '/wisein-logo.jpeg',
     description: [
-      'Leading a cross-functional team of 3 developers and 2 UX designers to architect and develop a Full-Stack Web App and cross-platform Mobile App with complex business logic.',
-      'Conducting regular code reviews, enforcing coding standards, and ensuring high code quality aligned with project requirements.',
-      'Managing end-to-end productionization, deployment, scalability, and release processes to successfully launch the application to market.',
-      'Developing optimized features for Web and Mobile, prioritizing performance, responsiveness, and user experience (UX).'
+ )
+'Leading a cross-functional team of 3 developers and 2 UX designers to architect and develop a Full-Stack Web App and crossplatform Mobile App with complex business logic.',
+'Implemented Caching, Rate Limiting, CDN, and other optimizations to improve the performance of the application.',
+'Built a RAG-powered chat system using Pinecone for semantic search over meeting transcripts.',
+'Work on core backend involving complex business logic, optimizations, and integrations with third-party SDKs.',
+'Conducted regular code reviews, enforced coding standards, and ensured high code quality aligned with project requirements'
     ]
   },
   {
-    title: 'Full Stack Developer (Internship)',
+    title: 'Full Stack Developer',
     company: 'Metaverse Ventures',
     date: 'Jun 2024 – Oct 2024',
     logo: '/m0-logo.jpeg',
@@ -41,14 +43,14 @@ export const experiences = [
     ]
   },
   {
-    title: 'Full Stack Developer (Internship)',
+    title: 'Full Stack Developer',
     company: 'Sanshi Network Technologies',
     date: 'Jan 2024 – Jun 2024',
     logo: '/sanshi-logo.jpeg',
     description: [
-      'Implemented end-to-end user authentication and verification using third-party APIs.',
-      'Developed a feature-rich dashboard with complex logic for slot booking, service management, and scheduling.',
-      'Optimized database operations using Prisma with PostgreSQL, achieving a 50% performance boost.'
+  'Worked with Next.js and Nest.js to build full stack web application and implemented end-to-end user authentication and verification using third-party APIs.',
+'Developed a feature-rich dashboard with complex logic for slot booking, service management, and scheduling.',
+'Optimized database operations using Prisma with PostgreSQL, implemented parallel processing and database transactions for better performance and data integrity.'
     ]
   }
 ] as const;
